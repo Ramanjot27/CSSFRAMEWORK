@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "../sass/_base.scss",
+        "../sass/_variables.scss",
+        "../sass/_components.scss",
+        "../sass/_utilities.scss"
+    ],
+    "names": [],
+    "mappings": "AAGA;EACI;EACA;EACA;;;AAIF;EACE,aCFU;EDGV,WCFa;EDGb;EACA,OCRS;EDST,kBCVe;;;ADajB;EACE;EACA,aCRe;;;ADWjB;EACE;;;AAGF;EACE,OCzBY;ED0BZ;;;AAGF;EACE;;;AE9BJ;EACI;EACA;EACA;EACA;EACA,kBDLY;ECMZ;EACA;EACA;;;AAGF;EACE,kBDZY;;;ACed;EACE,kBDfc;;;ACmBhB;EACE;EACA;EACA;EACA;;;ACxBJ;EACI;;;AAGF;EACE;;;AAGF;EACE;;;AAIF;EAAO;;;AACP;EAAO;;;AACP;EAAO;;;AAEP;EAAO;;;AACP;EAAO;;;AACP;EAAO;;;AAGP;EACE;;;AAGF;EACE;;;AAGF;EACE",
+    "file": "framework.css"
+}

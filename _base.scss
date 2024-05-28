@@ -1,0 +1,38 @@
+// sass/_base.scss
+
+// Reset or normalize styles
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  // Base typography
+  body {
+    font-family: $font-family;
+    font-size: $font-size-base;
+    line-height: 1.6;
+    color: $text-color;
+    background-color: $background-color;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: $spacer 0;
+    font-weight: $font-weight-bold;
+  }
+  
+  p {
+    margin: $spacer 0;
+  }
+  
+  a {
+    color: $primary-color;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  // More base styles...
+  
